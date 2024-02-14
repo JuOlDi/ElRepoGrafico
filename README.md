@@ -1,1 +1,7 @@
-Hola mundo, este es el readme
+# Entregas
+## Examen Tornado
+### Juli
+### Teo
+### Josue
+### Fantastico
+### Ana 
